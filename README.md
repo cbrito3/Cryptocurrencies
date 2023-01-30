@@ -1,4 +1,4 @@
-# Cryptocurrencies
+# Unsupervised Learning and Cryptocurrencies
 
 Background
 
