@@ -1,8 +1,14 @@
-# Unsupervised Learning and Cryptocurrencies
+# Unsupervised Learning and Cryptocurrencies Report
 
-Background
+# Purpose
 
-For this challenge about the cryptocurrency market, we are helping Martha and her firm to discover trends that will convince investors to invest in these new currencies. For this investment, a report was created as an analysis to help address what cryptocurrencies are on the trading market and how they could be grouped to create a classification system. The initial data is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output, we will use unsupervised learning. To group the cryptocurrencies, we decided on a clustering algorithm, followed by data visualizations, such as tables, 3-D scatter plot and hvplot.scatter plot, to share the findings.
+For this challenge about the cryptocurrency market, I am helping Martha and her firm to discover trends that will convince investors to invest in these new currencies. For this investment, a report was created as an analysis to help address what cryptocurrencies are on the trading market and how they could be grouped to create a classification system. The initial data is not ideal, so it will need to be processed to fit the machine learning models. Since there is no known output, I will use unsupervised learning. To group the cryptocurrencies, I decided on a clustering algorithm, followed by data visualizations, such as tables, 3-D scatter plot and hvplot.scatter plot, to share the findings.
+
+# As part of the report, the following will be deliver:
+* Deliverable 1: Preprocessing the Data for PCA
+* Deliverable 2: Reducing Data Dimensions Using PCA
+* Deliverable 3: Clustering Cryptocurrencies Using K-means
+* Deliverable 4: Visualizing Cryptocurrencies Results
 
 # Deliverable 1: Preprocessing the Data for PCA  
 
